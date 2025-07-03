@@ -1,0 +1,10 @@
+opencv-python
+numpy
+Pillow
+adafruit-circuitpython-st7789
+adafruit-circuitpython-busdevice
+adafruit-circuitpython-display-text
+adafruit-circuitpython-rgb-display
+adafruit-blinka
+lgpio
+picamera2
